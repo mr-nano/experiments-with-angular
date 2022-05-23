@@ -1,1 +1,5 @@
 doing some experiments with angular js
+
+# Useful commands
+- ng new angular-crash
+- ng serve
