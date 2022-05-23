@@ -1,0 +1,70 @@
+{
+    "tasks" : [
+        { 
+            "id" : 1,
+            "text" : "some task 1",
+            "day" : "2022-02-10",
+            "reminder" : true
+        },
+        { 
+            "id" : 2,
+            "text" : "some task 2",
+            "day" : "2022-02-10",
+            "reminder" : false
+        },
+        { 
+            "id" : 3,
+            "text" : "some task 3",
+            "day" : "2022-02-10",
+            "reminder" : true
+        },
+        { 
+            "id" : 4,
+            "text" : "some task 4",
+            "day" : "2022-02-10",
+            "reminder" : false
+        },
+        { 
+            "id" : 5,
+            "text" : "some task 5",
+            "day" : "2022-02-10",
+            "reminder" : true
+        },
+        { 
+            "id" : 6,
+            "text" : "some task 6",
+            "day" : "2022-02-10",
+            "reminder" : false
+        },
+        { 
+            "id" : 7,
+            "text" : "some task 7",
+            "day" : "2022-02-10",
+            "reminder" : true
+        },
+        { 
+            "id" : 8,
+            "text" : "some task 8",
+            "day" : "2022-02-10",
+            "reminder" : false
+        },
+        { 
+            "id" : 9,
+            "text" : "some task 9",
+            "day" : "2022-02-10",
+            "reminder" : true
+        },
+        { 
+            "id" : 10,
+            "text" : "some task 10",
+            "day" : "2022-02-10",
+            "reminder" : false
+        },
+        { 
+            "id" : 11,
+            "text" : "some task 11",
+            "day" : "2022-02-10",
+            "reminder" : true
+        }
+    ]
+}
